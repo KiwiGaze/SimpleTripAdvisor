@@ -19,7 +19,7 @@ Plan your trip using AI recommendations.
 ### AI-powered search
 Get answers to your questions using grok or gemini.
 - **Ask Date and Time**: Ask about the current date and time.
-![Date and Time Example](./assets/DateAndTime.jpg)
+![Date and Time Example](./assets/dateAndTime.jpg)
 
 ### Weather
 Get the current weather for any location using OpenWeather's API.
